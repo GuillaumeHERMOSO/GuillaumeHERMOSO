@@ -1,4 +1,4 @@
-Hi there, I'm Guillaume! 👋
+# Hi there, I'm Guillaume! 👋
 
 🚀 AI & Operations Research Engineer | M.Sc. OptimizationDual Master's Degree Candidate at Polytechnique Montréal (M.Sc. Applied Math) and UTC (Computer Engineering). 
 
